@@ -1,0 +1,15 @@
+
+body
+{
+  background-color: rgb(148, 203, 247);
+}
+
+.amenities
+{
+  background-image: url(background.png);
+}
+
+iframe
+{
+  width: 100%;
+}
